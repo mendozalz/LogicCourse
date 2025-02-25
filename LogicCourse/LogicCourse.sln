@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01", "01", "{149D0B37-2F55-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParImpar", "ParImpar\ParImpar.csproj", "{62C96B0C-0898-4E6D-B771-CA812FD7C12E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02", "02", "{831EFF0E-7C0C-40AA-AB05-4DA941F75814}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CualNumeroEsMayor", "CualNumeroEsMayor\CualNumeroEsMayor.csproj", "{73B642D4-6294-4948-ABE8-3C48762B4197}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,11 +21,16 @@ Global
 		{62C96B0C-0898-4E6D-B771-CA812FD7C12E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62C96B0C-0898-4E6D-B771-CA812FD7C12E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62C96B0C-0898-4E6D-B771-CA812FD7C12E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73B642D4-6294-4948-ABE8-3C48762B4197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73B642D4-6294-4948-ABE8-3C48762B4197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73B642D4-6294-4948-ABE8-3C48762B4197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73B642D4-6294-4948-ABE8-3C48762B4197}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{62C96B0C-0898-4E6D-B771-CA812FD7C12E} = {149D0B37-2F55-4716-8CC2-7ACD049757E8}
+		{73B642D4-6294-4948-ABE8-3C48762B4197} = {831EFF0E-7C0C-40AA-AB05-4DA941F75814}
 	EndGlobalSection
 EndGlobal
